@@ -13,7 +13,6 @@ Follow these steps to set up the project on your local machine.
 
 ### 2️⃣ Clone Your Forked Repository
 ```sh
-# Replace YOUR_GITHUB_USERNAME with your actual GitHub username
 git clone https://github.com/Ravi3727/GDG_Website.git 
 cd GDG_Website
 ```
